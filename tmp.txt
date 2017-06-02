@@ -1,0 +1,12 @@
+Tituss Burgess,actor
+Carol Kane,actor
+ Martin Gero,creater
+ Peter Dinklage,actor
+ Lena Headey,actor 
+Emilia Clarke,actor
+ Kit Harington,actor
+ Sophie Turner,actor
+ Maisie Williams,actor 
+Nikolaj Coster-Waldau,actor 
+Iain Glen,actor
+Alfie Allen,actor
